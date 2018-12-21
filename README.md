@@ -26,12 +26,4 @@ Welcome to the 3rd-HM wiki!
 
 # and here is the plots to compare the results of the test for each method:
 
-<img src = "https://github.com/nafisabr/r.t1/blob/master/Screenshot%20(50).png" width = "300" height = "300"/>
-<img src = "https://github.com/nafisabr/r.t1/blob/master/Screenshot%20(51).png" width = "300" height = "300"/>
-<img src = "https://github.com/nafisabr/r.t1/blob/master/Screenshot%20(52).png" width = "300" height = "300"/>
-<img src = "https://github.com/nafisabr/r.t1/blob/master/Screenshot%20(53).png" width = "300" height = "300"/>
-<img src = "https://github.com/nafisabr/r.t1/blob/master/Screenshot%20(54).png" width = "300" height = "300"/>
-<img src = "https://github.com/nafisabr/r.t1/blob/master/Screenshot%20(55).png" width = "300" height = "300"/>
-<img src = "https://github.com/nafisabr/r.t1/blob/master/Screenshot%20(56).png" width = "300" height = "300"/>
-<img src = "https://github.com/nafisabr/r.t1/blob/master/Screenshot%20(57).png" width = "300" height = "300"/>
-<img src = "https://github.com/nafisabr/r.t1/blob/master/Screenshot%20(58).png" width = "300" height = "300"/>
+<img src = "https://github.com/nafisabr/r.t1/blob/master/Screenshot%20(50).png" width = "300" height = "300"/> <img src = "https://github.com/nafisabr/r.t1/blob/master/Screenshot%20(51).png" width = "300" height = "300"/> <img src = "https://github.com/nafisabr/r.t1/blob/master/Screenshot%20(52).png" width = "300" height = "300"/> <img src = "https://github.com/nafisabr/r.t1/blob/master/Screenshot%20(53).png" width = "300" height = "300"/> <img src = "https://github.com/nafisabr/r.t1/blob/master/Screenshot%20(54).png" width = "300" height = "300"/> <img src = "https://github.com/nafisabr/r.t1/blob/master/Screenshot%20(55).png" width = "300" height = "300"/> <img src = "https://github.com/nafisabr/r.t1/blob/master/Screenshot%20(56).png" width = "300" height = "300"/> <img src = "https://github.com/nafisabr/r.t1/blob/master/Screenshot%20(57).png" width = "300" height = "300"/> <img src = "https://github.com/nafisabr/r.t1/blob/master/Screenshot%20(58).png" width = "300" height = "300"/>
